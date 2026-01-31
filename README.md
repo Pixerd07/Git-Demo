@@ -1,4 +1,4 @@
 # Git-Demo
 This is my first Git repository.
 <br>
-Author - Gurshant Singh Mohal
+Author - Gurshant  Mohal
